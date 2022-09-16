@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Predictor-
+# Sentiment-Analysis-Predictor
 Building a Sentiment Predictor Using Multinomial Naive Bayes 
 
 <p align = 'center'>
