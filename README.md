@@ -21,5 +21,5 @@ and the picture below is the output.
 <p align = 'center'>
 <img src = 'https://github.com/Samuel-the-crack/Sentiment-Predictor/blob/main/Picture/output.JPG' width = 350>
   
-**For the complete code you can see it [here](https://github.com/Samuel-the-crack/Credit-Card-Fraud-Detction/blob/main/credit%20fraud%20detection.ipynb).**
+**For the complete code you can see it [here](https://github.com/Samuel-the-crack/Sentiment-Predictor/blob/main/sentiment%20analysis%20project.ipynb).**
 
